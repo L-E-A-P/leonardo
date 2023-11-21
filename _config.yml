@@ -18,11 +18,11 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/dark.css"
 locale: it-IT
-title: "Giuseppe"
+title: "Alice"
 description: "ElettroAcustico Permanente"
-baseurl: "/giuseppe" # the subpath of your site, e.g. "/blog"
+baseurl: "/alice" # the subpath of your site, e.g. "/blog"
 url: "https://L-E-A-P.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: https://raw.githubusercontent.com/grammaton/giuseppe/main/images/gs.jpg # path of site logo, e.g. "/images/logo.png"
+logo:  # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -92,10 +92,10 @@ defaults:
 
 # Site Author
 author:
-  name: Giuseppe Silvi
-  email: grammaton@me.com
-  picture: /images/gs.jpg
-  twitter: "@giuseppesilvi"
+  name: Alice Cortegiani
+  email: alicecortegiani@gmail.com
+  picture: 
+  twitter: 
   links:
     - title:
       url:
