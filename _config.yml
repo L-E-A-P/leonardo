@@ -19,7 +19,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/dark.css"
 locale: it-IT
 title: "Alice"
-description: "ElettroAcustico Permanente"
+description: "Zebra Permanente"
 baseurl: "/alice" # the subpath of your site, e.g. "/blog"
 url: "https://L-E-A-P.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo:  # path of site logo, e.g. "/images/logo.png"
