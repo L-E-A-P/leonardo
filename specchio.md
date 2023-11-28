@@ -1,5 +1,5 @@
 ---
-title: SIIII PUÒ FAAAAAAREEEEE!!!
+title: 
 image: images/gnam_ccbclarinet.jpg
 layout: page
 ---
