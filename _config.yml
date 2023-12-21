@@ -22,7 +22,7 @@ title: "Zack"
 description: "lancia sampietrini sulle vetrine del mondo"
 baseurl: "/zack" # the subpath of your site, e.g. "/blog"
 url: "https://L-E-A-P.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo:  images/7A4AAA02-7EFE-4736-A897-D8B930C50EF2.jpeg # path of site logo, e.g. "/images/logo.png"
+logo:  images/leo.jpg # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -92,8 +92,8 @@ defaults:
 
 # Site Author
 author:
-  name: Alice Cortegiani
-  email: alicecortegiani@gmail.com
+  name: Leonardo Zaccone
+  email: leonardo.zaccone@gmail.com
   picture: 
   twitter: 
   links:
